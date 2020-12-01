@@ -9,4 +9,4 @@ What are romdrop patches? In order to create a calibration for use with both rom
 6. Drag and drop patch when prompted
 7. Romdrop will create a newly patched binary
 
-_Note: If no '.patch' can be found for your calibration-id, that indicates the definition for your ROM does not exist. Use Romdrop to 'R'ead your factory calibration. Submit a link to the binary for processing. Once processed, a definition (.xml) and patch (.patch) will be created then added to the romdrop and romdrop-patches repositories._
+_Note: If no '.patch' can be found for your calibration-id, a definition for your ROM does not exist. Use Romdrop to 'R'ead your factory calibration, then submit a link to the binary for processing. Once processed, a definition (<calibration-id>.xml) and patch (<calibration-id>.patch) will be added to the 'romdrop' and 'romdrop-patches' repositories respectively._
